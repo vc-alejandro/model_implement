@@ -1,8 +1,4 @@
 # Predicción de Churn con Árbol de Decisión (implementación manual)
-
-Repositorio de la entrega M2 - Parte I: implementación de un algoritmo de
-aprendizaje supervisado sin usar frameworks de Machine Learning.
-
 ## Archivos
 
 - **`decision_tree.py`**
