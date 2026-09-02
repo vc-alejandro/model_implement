@@ -28,5 +28,3 @@ aprendizaje supervisado sin usar frameworks de Machine Learning.
   confusión y métricas justificadas, comparación contra scikit-learn, y
   análisis/conclusión del desempeño obtenido.
 
-- **`README.md`**
-  Este archivo.
